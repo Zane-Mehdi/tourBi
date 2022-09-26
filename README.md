@@ -1,7 +1,7 @@
 <h1 align="center">TourBi</h1>
 <p align="center">
 <img src="assets/images/logo_nobg.png" width=265" />
-<a href="https://www.youtube.com/watch?v=lxVpcfQAQoU">Video Demo</a>
+<a href="https://youtu.be/t1VqzWKwHyQ">Video Demo</a>
                                                      </p>
 <h3 align="center">A journey planning app that uses a bicycle hire scheme for tourists</h4>
 
